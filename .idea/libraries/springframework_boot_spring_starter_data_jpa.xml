@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="springframework.boot.spring.starter.data.jpa" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot-starter-data-jpa:2.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-data-jpa-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-aop-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-autoconfigure-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-logging-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/log4j-to-slf4j-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jul-to-slf4j-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/snakeyaml-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-aop-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/aspectjweaver-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-jdbc-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/HikariCP-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-jdbc-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.transaction-api-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.persistence-api-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/hibernate-core-5.4.23.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jboss-logging-3.4.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/javassist-3.24.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/byte-buddy-1.10.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jandex-2.1.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/dom4j-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/hibernate-commons-annotations-5.1.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jaxb-runtime-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/txw2-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/istack-commons-runtime-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/stax-ex-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/FastInfoset-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-data-jpa-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-data-commons-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-orm-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-context-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-expression-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-tx-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-beans-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-core-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-jcl-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-aspects-5.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="springframework.boot.spring.starter.test" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot-starter-test:2.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-test-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-context-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-aop-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-beans-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-expression-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-autoconfigure-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-starter-logging-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/log4j-to-slf4j-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jul-to-slf4j-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/snakeyaml-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-test-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-boot-test-autoconfigure-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/json-path-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/json-smart-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/accessors-smart-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/asm-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.xml.bind-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jakarta.activation-api-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/assertj-core-3.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/hamcrest-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-jupiter-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-jupiter-api-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-platform-commons-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-jupiter-params-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-jupiter-engine-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/junit-platform-engine-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/mockito-core-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/byte-buddy-1.10.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/byte-buddy-agent-1.10.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/objenesis-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/mockito-junit-jupiter-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/jsonassert-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/android-json-0.0.20131108.vaadin1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-core-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-jcl-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/spring-test-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../classes/xmlunit-core-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
